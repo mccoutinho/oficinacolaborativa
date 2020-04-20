@@ -1,0 +1,133 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#logo_div {
+  text-align: center;
+  margin-top: 30%;
+  margin-bottom: 10rem;
+}
+
+
+#logo_div_registo {
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 20%;
+}
+
+#logo {
+  width: 55%;
+  height: 40%;
+}
+
+#logo_registo {
+  width: 55%;
+  height: 40%;
+}
+
+#login {
+  text-align: center;
+}
+
+#email {
+  border: none;
+  border-bottom: 2px solid gray;
+  background-color: lightgrey;
+  width: 70%;
+  height: 80px;
+  margin-bottom: 5rem;
+  font-size: 30pt;
+}
+
+#email1 {
+  border: none;
+  border-bottom: 2px solid gray;
+  background-color: lightgrey;
+  width: 70%;
+  height: 80px;
+  margin-top: 10%;
+  margin-bottom: 5rem;
+  font-size: 30pt;
+}
+
+
+#password {
+  border: none;
+  border-bottom: 2px solid gray;
+  background-color: lightgrey;
+  width: 70%;
+  height: 80px;
+  font-size: 30pt;
+}
+
+#recover {
+  margin-left: 15%;
+  margin-top: 10%;
+  font-size: 20pt;
+}
+
+#data {
+  border: none;
+  border-bottom: 2px solid gray;
+  background-color: lightgrey;
+  width: 30%;
+  height: 80px;
+  font-size: 30pt;
+  margin-left: 15%;
+  display: inline-block;
+}
+
+#sexo {
+  border: none;
+  border-bottom: 2px solid gray;
+  background-color: lightgrey;
+  width: 30%;
+  height: 80px;
+  font-size: 30pt;
+  margin-left: 10%;
+  display: inline-block;
+}
+
+#botoes {
+  text-align: center;
+  margin-top: 6%;
+}
+
+#entrar {
+  border: none;
+  background-color: darkgray;
+  border-radius: 12px;
+  width: 29%;
+  height: 100px;
+  font-size: 25pt;
+  background-color: #FFC62B;
+  margin-right:6rem;
+}
+
+#entrar_registo {
+  border: none;
+  background-color: darkgray;
+  border-radius: 12px;
+  width: 60%;
+  height: 100px;
+  font-size: 25pt;
+  background-color: #FFC62B;
+  margin-right:6rem;
+  text-align: center;
+  margin-left: 8%;
+}
+
+#registar {
+  border: 2px solid lightgrey;
+  background-color: white;
+  font-size: 25pt;
+  border-radius: 12px;
+  width: 29%;
+  height: 100px;
+}
+
+#termos {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 20pt;
+}
